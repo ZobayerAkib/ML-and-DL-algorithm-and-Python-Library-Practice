@@ -8,6 +8,6 @@
 | Already Done | Coding Type|
 | --- | --- |
 | `Minimum Error Rate Classifier` | `Raw coding` |
-| `Perceptron_Algorithm` | `Raw coding` |
+| `Perceptron Algorithm` | `Raw coding` |
 | `Numpy` | `Normal coding` |
 | `pytorch` | `Normal coding` |
